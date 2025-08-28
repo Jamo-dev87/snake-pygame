@@ -15,6 +15,27 @@ Built as a learning project to demonstrate Python fundamentals, game loops, even
 ---
 
 ## 🚀 How to Run
+**macOS** — using Terminal
+Open Terminal (how to find it)
+
+Press ⌘ + Space to open Spotlight, type Terminal, press Return.
+or
+
+Finder → Applications → Utilities → Terminal.
+
+Go to your project folder
+
+In Terminal, type cd (with a space), then drag your project folder from Finder into the Terminal window → press Return.
+(You should now be “in” your project. Run ls — you should see src, README.md, etc.)
+
+**Windows** — using Terminal / PowerShell / Git Bash
+Open a terminal (how to find it)
+
+Press the Windows key, type Terminal (or PowerShell), press Enter.
+or
+
+If you installed Git for Windows, open Git Bash (Start menu).
+pro tip: In File Explorer, go to your project folder, click the address bar, type cmd and press Enter to open a Command Prompt in that folder.
 
 1. **Clone the repository**
    ```bash
